@@ -13,11 +13,11 @@ function node.render()
 
     -- render display
     local flap = resource.render_child("flapdisplay")
-    flap:draw(0, 0, WIDTH-100, HEIGHT-100)
+    flap:draw(0, 0, WIDTH-180, HEIGHT-100)
 
     -- render clock in top right corner
     clock = resource.render_child("analogclock")
-    clock:draw(WIDTH-100, 0, WIDTH, 100)
+    clock:draw(WIDTH-180, 0, WIDTH, 180)
 
     -- draw logo
     util.draw_correct(logo, WIDTH-90, HEIGHT-150, WIDTH, HEIGHT-20)
