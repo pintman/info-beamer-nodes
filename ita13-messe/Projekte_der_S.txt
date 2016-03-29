@@ -1,0 +1,140 @@
+Jan P., Genc S., Alexander K.
+Ticketsystem
+
+Tool zum Eintragen, 
+Bearbeiten, Kommentieren
+und Archivieren von 
+Supportanfragen der 
+ITAWerkstatt. 
+
+
+Jonas H.
+Minecraft Itemsystem
+
+Ein System welches die
+Items des 
+Minecraft-Spieles 
+erweitert 
+(Multiplayer-Modus).
+
+
+Alexander Kl.
+Racing Raspberry Pi
+
+C++ Programm zur 
+Steuerung eines 
+selbstfahrenden 
+Racing Raspberry Pi
+
+
+
+Mustafa A., Muhammed B.
+Android Counter-App
+
+App-Programmierung für 
+Android Systeme mit 
+Hilfe von Processing
+
+
+
+
+Mustafa A., Muhammed B.
+Android Kreisspiel
+
+App-Programmierung für 
+Android Systeme mit 
+Hilfe von Processing
+
+
+
+
+Mustafa A., Muhammed B.
+Streamingserver
+
+Aufsetzen und Einrichten
+eines Kodi-Medienservers
+
+
+
+
+
+Alexander B., 
+Christopher B., 
+Tim B., Lukas V.
+Einbruchssimulator
+
+Entwicklung eines 
+Unity-Spieles
+
+
+
+Patrick G., Lukas K.
+Rootkits
+
+Aufklärung über Rootkits
+
+
+
+
+
+
+Patrick G., Lukas K.
+Emulator auf dem 
+Raspberry Pi
+
+Nutzen eines Raspberry
+Pi als Emulator
+
+
+
+
+Lukas V., Aaron H.
+Flugzeugortung via DVB-T
+
+Wie kann ich Flugzeuge 
+orten?
+
+
+
+
+
+Ahmad O.
+Elek. Anwesenheitsliste
+
+Programmierung einer 
+Anwesenheitsliste 
+mittels PHP, MySQL und 
+Raspberry Pi
+
+
+
+Ahmad O., Aaron H.,
+Fabian R.
+Kundennetzwerk
+
+Realisierung eines 
+Kundennetzwerkes 
+inkl. Mailserver und 
+Fileserver (OwnCloud)
+
+
+Aaron H., Fabian R.
+Tank-App
+
+Entwicklung einer 
+Android-App mit der das
+Tankverhalten und die 
+KFZ-Steuer kontrolliert
+werden kann inkl. 
+Auswertungen
+
+Christopher D., Joel S.,
+Niklas R.
+School-Tool
+
+Entwicklung eines 
+C#-Programmes für 
+Hilfestellungen zu div. 
+Unterrichtsfächern
+
+
